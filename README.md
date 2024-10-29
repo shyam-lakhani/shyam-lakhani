@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @shyam-lakhani
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java & Web Dev Backend
+- 🌟 Front-End Developer 
+- 💻 Turning ideas into code
+- 🔧 Frameworks: Bootstrap, Node.js
+-  🚀 Always learning, always sharing
+- 🌱 I’m currently learning Java & React
 - 📫 Email - @shyamlakhani2005@gmail.com
